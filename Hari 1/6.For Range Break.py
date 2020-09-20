@@ -6,4 +6,4 @@ for i in range(10,50):
         print("angka ditemukan", i)
         break
 else:
-        print("angka tidak ditemukan")
+    print("angka tidak ditemukan")

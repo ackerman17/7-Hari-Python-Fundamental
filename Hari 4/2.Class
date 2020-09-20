@@ -1,0 +1,39 @@
+# class
+class mahasiswa():
+    __nilai = 0 # private
+
+    def __init__(self,input_nama,input_nim):
+        # public
+        self.nama = input_nama
+        self.nim = input_nim
+
+    # method atau fungsi
+    def belajar(self,kondisi):
+        print(self.nama, 'sedang belajar',kondisi)
+
+    def tidur(self, kondisi):
+        print(self.nama,'sedang tidur', kondisi)
+
+    def uts(self,input_nilai):
+        self.__nilai += input_nilai
+
+    def uas(self,input_nilai):
+        self.__nilai += input_nilai
+
+    def cek_status(self):
+        if self.__nilai <= 70:
+            print(self.nama,'tidak lulus')
+        else:
+            print(self.nama, 'lulus')
+
+# main program nya
+otong = mahasiswa('si otong',17010197)
+ucup = mahasiswa('si ucup', 17010199)
+
+otong.uts(10)
+otong.uas(50)
+otong.cek_status()
+
+ucup.uts(40)
+ucup.uas(50)
+ucup.cek_status()

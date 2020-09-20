@@ -21,8 +21,9 @@ a[1] = 20
 # print(a)
 
 # merubah content list dengan metode slicing
-Data[3:5] = [18,22]
 # print(Data)
+Data[1:2] = [20,11]
+print(Data)
 
 # list dalam list
 x = [Data,Data2]

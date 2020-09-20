@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8f2bfa-0a44-445b-b20d-794413bd422a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hari 1/5.For Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hari 1/6.For Range Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hari 1/7.Continue Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hari 1/8.While.py" afterDir="false" />
+    <list default="true" id="ab8f2bfa-0a44-445b-b20d-794413bd422a" name="Default Changelist" comment="add continue pass">
+      <change afterPath="$PROJECT_DIR$/Hari 2/1.Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/2.Function &amp; Argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/3.Return Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/4.Lambda Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/5.Scope Global &amp; Local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/6.More On List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/7.Stack &amp; Queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 2/8.Tipe Data &amp; Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/1.Type Data Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/2.Dictonary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/3.Looping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/4.Import/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/4.Import/modul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/5.Module/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/5.Module/matematika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 3/6.convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/1.Package/fisika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/1.Package/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/1.Package/matematika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/2.Class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/3.Latihan Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 4/4.Class Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 5/1.Class Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 5/2.Input Output File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 6/1.Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hari 7/1.Try and Exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hari 1/If Elif Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hari 1/4.If Elif Else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hari 1/3.List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hari 1/3.List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hari 1/6.For Range Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hari 1/6.For Range Break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hari 1/8.While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hari 1/8.While.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +59,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Python.7.Continue Pass">
-    <configuration name="3.List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hafidz Dev\PycharmProjects\7 Hari\Hari 4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.6.More On List">
+    <configuration name="1.Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="7 Hari" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,32 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hari 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hari 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hari 1/3.List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.If Elif Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="7 Hari" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hari 1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hafidz Dev\PycharmProjects\7 Hari\Hari 1\4.If Elif Else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hari 2/1.Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,6 +128,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="6.More On List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="7 Hari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hari 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hari 2/6.More On List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="7.Continue Pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="7 Hari" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Hafidz Dev\PycharmProjects\7 Hari\Hari 1\7.Continue Pass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hari 1/7.Continue Pass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.More On List" />
+        <item itemvalue="Python.1.Function" />
         <item itemvalue="Python.7.Continue Pass" />
         <item itemvalue="Python.6.For Range Break" />
         <item itemvalue="Python.5.For Loops" />
-        <item itemvalue="Python.4.If Elif Else" />
-        <item itemvalue="Python.3.List" />
       </list>
     </recent_temporary>
   </component>
@@ -162,52 +191,100 @@
       <option name="presentableId" value="Default" />
       <updated>1599029029734</updated>
     </task>
+    <task id="LOCAL-00001" summary="add if else">
+      <created>1599048054206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599048054206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add for loops">
+      <created>1599048074112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599048074112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add for range">
+      <created>1599048092676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599048092676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add continue pass">
+      <created>1599048114145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599048114145</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add if else" />
+    <MESSAGE value="add for loops" />
+    <MESSAGE value="add for range" />
+    <MESSAGE value="add continue pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="add continue pass" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1599048090761">
+    <state x="450" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599989444122">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1599048090761" />
-    <state width="1345" height="202" key="GridCell.Tab.0.bottom" timestamp="1599047712988">
+    <state x="450" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1599989444122" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1600437585146">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599047712988" />
-    <state width="1345" height="202" key="GridCell.Tab.0.center" timestamp="1599047712988">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1600437585146" />
+    <state x="462" y="112" key="FileChooserDialogImpl" timestamp="1600431365170">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599047712988" />
-    <state width="1345" height="202" key="GridCell.Tab.0.left" timestamp="1599047712988">
+    <state x="462" y="112" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1600431365170" />
+    <state width="1345" height="240" key="GridCell.Tab.0.bottom" timestamp="1600443151379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599047712988" />
-    <state width="1345" height="202" key="GridCell.Tab.0.right" timestamp="1599047712988">
+    <state width="1345" height="240" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600443151379" />
+    <state width="1345" height="240" key="GridCell.Tab.0.center" timestamp="1600443151379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="202" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599047712988" />
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom" timestamp="1599042538510">
+    <state width="1345" height="240" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600443151379" />
+    <state width="1345" height="240" key="GridCell.Tab.0.left" timestamp="1600443151379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599042538510" />
-    <state width="1345" height="227" key="GridCell.Tab.1.center" timestamp="1599042538510">
+    <state width="1345" height="240" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600443151379" />
+    <state width="1345" height="240" key="GridCell.Tab.0.right" timestamp="1600443151379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1599042538510" />
-    <state width="1345" height="227" key="GridCell.Tab.1.left" timestamp="1599042538510">
+    <state width="1345" height="240" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600443151379" />
+    <state width="621" height="226" key="GridCell.Tab.1.bottom" timestamp="1599559809807">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1599042538510" />
-    <state width="1345" height="227" key="GridCell.Tab.1.right" timestamp="1599042538510">
+    <state width="621" height="226" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599559809807" />
+    <state width="621" height="226" key="GridCell.Tab.1.center" timestamp="1599559809806">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1599042538510" />
+    <state width="621" height="226" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1599559809806" />
+    <state width="621" height="226" key="GridCell.Tab.1.left" timestamp="1599559809806">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="621" height="226" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1599559809806" />
+    <state width="621" height="226" key="GridCell.Tab.1.right" timestamp="1599559809807">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="621" height="226" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1599559809807" />
     <state x="184" y="12" key="SettingsEditor" timestamp="1599046512926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599046512926" />
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1599044661668">
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1600431179073">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1599044661668" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600431179073" />
+    <state x="704" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599533411543">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="704" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599533411543" />
   </component>
 </project>
